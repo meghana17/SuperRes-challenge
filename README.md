@@ -47,3 +47,6 @@ This archtecture can dramatically reduce computational complexity.
 [5] [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219)
 
 [6] [Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution](https://arxiv.org/abs/1704.03915)
+
+## Acknowledgement
+The ease of implementing this project is accredited to the original source code released by authors of the papers.
