@@ -32,8 +32,7 @@ Got a final validation perceptual distance of 57.761
 
 ## TO DO:
 Use a larger generic dataset, augment the images, and try the Laplacian Pyramid Super-Resolution Network (LapSRN) based on a cascade of CNNs, as proposed in [6].<br/>
-This architecture predicts progressively using the input LR image, i.e the 8x8 image becomes 16x16, then 32x32 and so on. <br/>
-This archtecture can dramatically reduce computational complexity.
+This architecture predicts progressively using the input LR image, i.e the 8x8 image becomes 16x16, then 32x32 and so on and can dramatically reduce computational complexity.
 
 ## References
 [1] [Enhanced Deep Residual Networks for Single Image Super-Resolution](https://arxiv.org/abs/1707.02921)
